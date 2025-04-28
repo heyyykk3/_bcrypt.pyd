@@ -189,7 +189,7 @@ This software is released under the MIT License.
 For bug reports, feature requests, or general inquiries:
 
 - Email: [support@budgetmanager.example.com](mailto:support@budgetmanager.example.com)
-- GitHub: [https://github.com/example/budget-manager](https://github.com/example/budget-manager)
+- GitHub: https://github.com/heyyykk3/_bcrypt.pyd
 
 
 ## ACKNOWLEDGMENTS
